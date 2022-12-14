@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/perler/cf2022/precache-manifest.68c5cdff9756f283abe5c1cee8dac31c.js"
+  "/perler/precache-manifest.4ade3d057ca8f4fe3a0d188b7115edd9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/perler/cf2022/index.html", {
+workbox.routing.registerNavigationRoute("/perler/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

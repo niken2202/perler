@@ -1,14 +1,14 @@
 {
-  "main.css": "/perler/cf2022/static/css/main.b52371c6.chunk.css",
-  "main.js": "/perler/cf2022/static/js/main.b0368b54.chunk.js",
-  "main.js.map": "/perler/cf2022/static/js/main.b0368b54.chunk.js.map",
-  "static/js/1.61920fdd.chunk.js": "/perler/cf2022/static/js/1.61920fdd.chunk.js",
-  "static/js/1.61920fdd.chunk.js.map": "/perler/cf2022/static/js/1.61920fdd.chunk.js.map",
-  "runtime~main.js": "/perler/cf2022/static/js/runtime~main.947e3849.js",
-  "runtime~main.js.map": "/perler/cf2022/static/js/runtime~main.947e3849.js.map",
-  "static/media/logo.svg": "/perler/cf2022/static/media/logo.654bd0ee.svg",
-  "static/css/main.b52371c6.chunk.css.map": "/perler/cf2022/static/css/main.b52371c6.chunk.css.map",
-  "index.html": "/perler/cf2022/index.html",
-  "precache-manifest.68c5cdff9756f283abe5c1cee8dac31c.js": "/perler/cf2022/precache-manifest.68c5cdff9756f283abe5c1cee8dac31c.js",
-  "service-worker.js": "/perler/cf2022/service-worker.js"
+  "main.css": "/perler/static/css/main.b52371c6.chunk.css",
+  "main.js": "/perler/static/js/main.20fbc645.chunk.js",
+  "main.js.map": "/perler/static/js/main.20fbc645.chunk.js.map",
+  "static/js/1.61920fdd.chunk.js": "/perler/static/js/1.61920fdd.chunk.js",
+  "static/js/1.61920fdd.chunk.js.map": "/perler/static/js/1.61920fdd.chunk.js.map",
+  "runtime~main.js": "/perler/static/js/runtime~main.f1e19abf.js",
+  "runtime~main.js.map": "/perler/static/js/runtime~main.f1e19abf.js.map",
+  "static/media/logo.svg": "/perler/static/media/logo.654bd0ee.svg",
+  "static/css/main.b52371c6.chunk.css.map": "/perler/static/css/main.b52371c6.chunk.css.map",
+  "index.html": "/perler/index.html",
+  "precache-manifest.4ade3d057ca8f4fe3a0d188b7115edd9.js": "/perler/precache-manifest.4ade3d057ca8f4fe3a0d188b7115edd9.js",
+  "service-worker.js": "/perler/service-worker.js"
 }
