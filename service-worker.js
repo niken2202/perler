@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/perler/cf2022/precache-manifest.ddfb68621926d5e80878644e5eba7b3f.js"
+  "/perler/cf2022/precache-manifest.68c5cdff9756f283abe5c1cee8dac31c.js"
 );
 
 workbox.clientsClaim();

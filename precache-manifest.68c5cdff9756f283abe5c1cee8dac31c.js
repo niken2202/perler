@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/perler/cf2022/static/media/logo.654bd0ee.svg"
   },
   {
-    "revision": "9a024f24990d8e0cd53b5e2e2450b4bb",
+    "revision": "2ef37a69be28bd0383fa7474c8377847",
     "url": "/perler/cf2022/index.html"
   }
 ];
